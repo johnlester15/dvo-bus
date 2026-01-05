@@ -10,7 +10,7 @@
     "web": "expo start --web",
     "lint": "expo lint",
     "dev": "expo start",
-    "build": "expo export:web"
+    "build": "expo export"
   },
   "dependencies": {
     "@expo-google-fonts/montserrat": "^0.4.2",
